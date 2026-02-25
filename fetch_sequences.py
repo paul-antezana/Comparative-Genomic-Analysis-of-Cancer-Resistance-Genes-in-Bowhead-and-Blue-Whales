@@ -35,8 +35,7 @@ from Bio.Blast import NCBIXML
 from io import StringIO
 
 # NCBI requires an email address to use their API
-# Normally, this would be blank but for now, I'll be using my e-mail
-Entrez.email = "paulag24@uw.edu"
+Entrez.email = "INSERT EMAIL ADDRESS HERE" # <----------------------------------------- IMPORTANT! Insert your email here first.
 
 # list the 5 genes we are comparing between species
 geneList = ["CIRBP", "RPA2", "PCNA", "ERCC1", "TP53"]
