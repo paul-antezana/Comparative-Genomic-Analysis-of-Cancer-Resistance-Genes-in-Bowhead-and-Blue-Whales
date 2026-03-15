@@ -1,4 +1,7 @@
-Old programs (fetch_sequences.py, analyze_results.py, blast_compare.py were deleted but looking at changelog _should_ 
-allow readers to view their history.
+Programs used for this study (fetch_and_compare.py and statistical_comparison.py) are available.
 
-New programs (fetch_and_compare.py and statistical_comparison.py) are available.
+NOTICE: Older programs used for the project draft are available as (OLD PROGRAM) which includes fetch_sequences.py, analyze_results.py, blast_compare.py
+
+Only the newer programs (fetch_and_compare.py and statistical_comparison.py) were used for the final version of the study.
+
+
